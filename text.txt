@@ -356,3 +356,25 @@ select count(*) from cs_crosssell_table;
 
 select * from final order by s_no;
 select count(*) from final;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+global end
+end = "\n"
+
+print("hellowjkna", end)
+print(a.bit_length())
